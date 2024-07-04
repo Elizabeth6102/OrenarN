@@ -1,5 +1,5 @@
 # Función para ordenar números de mayor a menor
-ordenar_numeros <- function() {
+ORUM <- function() {
   # Solicitar al usuario los números y almacenarlos en un vector
   numeros <- numeric(0)
   cat("Ingrese los números que desea ordenar (separados por espacios): ")
